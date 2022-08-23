@@ -1,7 +1,6 @@
 calendar.lua
 calendar-search.lua
 covid-widget.lua
-icndb-widget.lua
 inspiration-quotes-widget.lua
 kodi-remote-widget.lua
 public-ip-widget.lua
